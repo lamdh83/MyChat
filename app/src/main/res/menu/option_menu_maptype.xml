@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuHD"
+        android:title="HYBRID" />
+    <item
+        android:id="@+id/mnuNM"
+        android:title="NORMAL" />
+    <item
+        android:id="@+id/mnuSL"
+        android:title="SATELLITE" />
+    <item
+        android:id="@+id/mnuTR"
+        android:title="TERRAIN" />
+    <item
+        android:id="@+id/mnuNE"
+        android:title="NONE" />
+</menu>

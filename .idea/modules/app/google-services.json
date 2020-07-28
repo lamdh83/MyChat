@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397471926027",
+    "firebase_url": "https://mychat-bcecc.firebaseio.com",
+    "project_id": "mychat-bcecc",
+    "storage_bucket": "mychat-bcecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397471926027:android:d447b77153e8f2b99b040e",
+        "android_client_info": {
+          "package_name": "com.dohoailam.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397471926027-f44al10m7etmct5ir2kajoood7trgsa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dohoailam.mychat",
+            "certificate_hash": "bb079ef5a4f98ccb0cc2b4151ba74c76fd019baa"
+          }
+        },
+        {
+          "client_id": "397471926027-q5peft6frmcjt1rqolki3h9qu316n6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwd8Sk8R2ZBRjVz_WYj3Y__9EGS3NqfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397471926027-q5peft6frmcjt1rqolki3h9qu316n6ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
